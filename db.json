@@ -1,6 +1,14 @@
 {
     "products": [
       {
+        "title": "testing pipeline",
+        "type": "Felt shoes",
+        "price": 1795,
+        "description": "Home woven slippers made of pure sheep wool . Wool fibers absorb excess moisture, which provides comfortable dry heat to the legs. The sole of slippers is made of calfskin of vegetable tanning.",
+        "img": "https://shop.tumar.com/wp-content/uploads/2022/01/DSC00367-1320x970.jpg",
+        "id": 100
+      },
+      {
         "title": "Woven slippers",
         "type": "Felt shoes",
         "price": 1795,
